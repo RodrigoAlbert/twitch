@@ -1,0 +1,43 @@
+.blocos {
+    float: left;
+    width: 100%;
+    height: 150px;
+    margin-bottom: 22px;
+}
+
+.blocoOn {
+    padding-left: 6px;
+    border-left: 8px solid green;
+}
+
+.blocoOff {
+    padding-left: 6px;
+    border-left: 8px solid red;
+}
+
+.imagem img {height: 150px;}
+
+.imagem {
+    float: left;
+}
+
+.text {
+    float: left;
+    padding-left: 17px;
+    height: 150px;
+    width: 58%;
+    background: #ECECEC;
+}
+
+.title {
+    font-size: 24px;
+    padding-bottom: 12px;
+    color: #666;
+}
+
+.about {
+    font-size: 15px;
+    color: gray;
+}
+
+.text {}
